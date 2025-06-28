@@ -172,3 +172,95 @@
 [HD]人間衛視,https://stream1.freetv.fun/ren-jian-wei-shi-11.m3u8
 [HD]創世電視,https://stream1.freetv.fun/chuang-shi-dian-shi-1.m3u8
 [BD]生命電視,https://stream1.freetv.fun/sheng-ming-dian-shi-2.m3u8
+
+[測試]測試頻道,#genre#
+[HD]elta愛爾達體育 2 *wj,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
+[HD]elta体育3 =1,https://stream1.freetv.fun/eltati-yu-3--1-1.m3u8
+[HD]公视 =1,https://stream1.freetv.fun/gong-shi---1-1.m3u8
+[HD]公視 *wj,https://stream1.freetv.fun/gong-shi---wj-1.ctv
+[HD]創世電視,https://stream1.freetv.fun/chuang-shi-dian-shi-1.m3u8
+[HD]博斯网球 =1,https://stream1.freetv.fun/bo-si-wang-qiu---1-1.m3u8
+
+
+[測試]JAPAN,#genre#
+[HD]ann news,https://stream1.freetv.fun/ann-news-1.m3u8
+[SD]animax *wj,https://stream1.freetv.fun/animax--wj-1.ctv
+[BD]animax,https://stream1.freetv.fun/animax-6.m3u8
+[HD]hallo anime,https://stream1.freetv.fun/hallo-anime-1.m3u8
+[HD]boom anime,https://stream1.freetv.fun/boom-anime-2.m3u8
+[VGA]cms anime,https://stream1.freetv.fun/cms-anime-1.m3u8
+[SD]bs asahi,https://stream1.freetv.fun/bs-asahi-1.m3u8
+[SD]bs fuji,https://stream1.freetv.fun/bs-fuji-1.m3u8
+[HD]bs tbs,https://stream1.freetv.fun/bs-tbs-1.m3u8
+[SD]bs-tbs,https://stream1.freetv.fun/bs-tbs-5.m3u8
+[SD]bsアニマックス,https://stream1.freetv.fun/bsanimatsukusu-2.m3u8
+[SD]テレビ東京,https://stream1.freetv.fun/terebidong-jing-5.m3u8
+[SD]bsフジ,https://stream1.freetv.fun/bshuzi-2.m3u8
+[SD]日本テレビ,https://stream1.freetv.fun/ri-ben-terebi-1.m3u8
+[SD]bs日テレ,https://stream1.freetv.fun/bsri-tere-2.m3u8
+[BD]cgntv japan,https://stream1.freetv.fun/cgntv-japan-1.m3u8
+[BD]cgntv japan,https://stream1.freetv.fun/cgntv-japan-2.m3u8
+[HD]on fm,https://stream1.freetv.fun/on-fm-1.m3u8
+[SD]gaora,https://stream1.freetv.fun/gaora-1.m3u8
+[HD]gaora sports,https://stream1.freetv.fun/gaora-sports-2.m3u8
+[HD]lol! network,https://stream1.freetv.fun/lol--network-1.m3u8
+[HD]lol! network,https://stream1.freetv.fun/lol--network-5.m3u8
+[VGA]hit tv,https://stream1.freetv.fun/hit-tv-1.m3u8
+[SD]jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
+[HD]ert sports 1,https://stream1.freetv.fun/ert-sports-1-1.ctv
+[HD]jsport 2,https://stream1.freetv.fun/jsport-2-1.m3u8
+[SD]jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
+[HD]jsport 3,https://stream1.freetv.fun/jsport-3-1.m3u8
+[SD]jsports 3,https://stream1.freetv.fun/jsports-3-2.m3u8
+[HD]ert sports 4,https://stream1.freetv.fun/ert-sports-4-1.ctv
+[BD]ert sports 4,https://stream1.freetv.fun/ert-sports-4-2.m3u8
+[HD]jsport 4,https://stream1.freetv.fun/jsport-4-1.m3u8
+[SD]jsports 4,https://stream1.freetv.fun/jsports-4-1.m3u8
+[BD]shop channel,https://stream1.freetv.fun/shop-channel-2.m3u8
+[HD]kanshi tv,https://stream1.freetv.fun/kanshi-tv-1.m3u8
+[VGA]kanizsa tv,https://stream1.freetv.fun/kanizsa-tv-1.m3u8
+[HD]kansai tv,https://stream1.freetv.fun/kansai-tv-1.m3u8
+[SD]lalatv,https://stream1.freetv.fun/lalatv-1.m3u8
+[HD]mbs,https://stream1.freetv.fun/mbs-2.m3u8
+[HD]mondo tv,https://stream1.freetv.fun/mondo-tv-2.m3u8
+[SD]music on tv!,https://stream1.freetv.fun/music-on-tv-1.m3u8
+[SD]nhk bs,https://stream1.freetv.fun/nhk-bs-2.m3u8
+[HD]nhk bs,https://stream1.freetv.fun/nhk-bs-3.m3u8
+[SD]nhk,https://stream1.freetv.fun/nhk-3.m3u8
+[SD]nhk bsp4k,https://stream1.freetv.fun/nhk-bsp4k-1.m3u8
+[BD]lnktv education,https://stream1.freetv.fun/lnktv-education-1.m3u8
+[HD]nhk world,https://stream1.freetv.fun/nhk-world-9.m3u8
+[HD]nhk world,https://stream1.freetv.fun/nhk-world-7.m3u8
+[VGA]nhk world *s,https://stream1.freetv.fun/nhk-world--s-1.m3u8
+[HD]nhk japan ᴴᴰ,https://stream1.freetv.fun/nhk-japan-hd-1.m3u8
+[BD]news world,https://stream1.freetv.fun/news-world-1.m3u8
+[HD]star channel,https://stream1.freetv.fun/star-channel-3.m3u8
+[BD]on music,https://stream1.freetv.fun/on-music-1.ctv
+[BD]tbs,https://stream1.freetv.fun/tbs-1.m3u8
+[SD]tbsテレビ,https://stream1.freetv.fun/tbsterebi-2.m3u8
+[HD]tokyo mx1,https://stream1.freetv.fun/tokyo-mx1-1.m3u8
+[HD]tokyo mx2,https://stream1.freetv.fun/tokyo-mx2-3.m3u8
+[BD]tv sayohi,https://stream1.freetv.fun/tv-sayohi-1.m3u8
+[BD]bs tv tokyo,https://stream1.freetv.fun/bs-tv-tokyo-1.m3u8
+[HD]bs tv tokyo,https://stream1.freetv.fun/bs-tv-tokyo-2.m3u8
+[HD]degrassi the next generation,https://stream1.freetv.fun/degrassi-the-next-generation-1.m3u8
+[HD]wowow cinema,https://stream1.freetv.fun/wowow-cinema-1.m3u8
+[HD]wowow live,https://stream1.freetv.fun/wowow-live-1.m3u8
+[HD]wowow prime,https://stream1.freetv.fun/wowow-prime-3.m3u8
+[SD]wowowシネマ,https://stream1.freetv.fun/wowowshinema-3.m3u8
+[SD]wowowプライム,https://stream1.freetv.fun/wowowpuraimu-3.m3u8
+[SD]wowowライブ,https://stream1.freetv.fun/wowowraibu-3.m3u8
+[HD]dtv,https://stream1.freetv.fun/dtv-1.m3u8
+[HD]dtv,https://stream1.freetv.fun/dtv-3.m3u8
+[SD]ゴルフネットワーク,https://stream1.freetv.fun/goruhunetsutowaku-2.m3u8
+[SD]スーパー!ドラマtv,https://stream1.freetv.fun/supa-doramatv-1.m3u8
+[SD]チャンネルneco,https://stream1.freetv.fun/chiyanneruneco-1.m3u8
+[SD]チャンネル銀河,https://stream1.freetv.fun/chiyanneruyin-he-3.m3u8
+[SD]テレビ朝日,https://stream1.freetv.fun/terebizhao-ri-4.m3u8
+[SD]テレビ朝日,https://stream1.freetv.fun/terebizhao-ri-3.m3u8
+[SD]ファミリー劇場,https://stream1.freetv.fun/huamiriju-chang-3.m3u8
+[SD]フジテレビ,https://stream1.freetv.fun/huziterebi-3.m3u8
+[SD]囲碁・将棋チャンネル,https://stream1.freetv.fun/wei-qi-jiang-qi-chiyanneru-1.m3u8
+[SD]時代劇専門チャンネル,https://stream1.freetv.fun/shi-dai-ju-zhuan-men-chiyanneru-4.m3u8
+[SD]東映チャンネル,https://stream1.freetv.fun/dong-ying-chiyanneru-1.m3u8
+[SD]东映チャンネル,https://stream1.freetv.fun/dong-ying-chiyanneru-2.m3u8
