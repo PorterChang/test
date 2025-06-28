@@ -280,8 +280,6 @@
 [VGA]fox sports 2,https://stream1.freetv.fun/fox-sports-2-2.ctv
 [SD]fox sports 1,https://stream1.freetv.fun/fox-sports-1-2.m3u8
 
-
-[TEST]測,#genre#
 民视,rtmp://59.124.75.138/sat/tv051
 台视,rtmp://59.124.75.138/sat/tv071
 中视,rtmp://59.124.75.138/sat/tv091
