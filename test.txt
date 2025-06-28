@@ -20,7 +20,6 @@
 [HD]台視,https://stream1.freetv.fun/tai-shi---1-1.m3u8
 [HD]台視,https://stream1.freetv.fun/tai-shi------1-1.m3u8
 [HD]中視,rtmp://f13h.mine.nu:1935/sat/tv091
-[BD]中視,https://stream1.freetv.fun/zhong-shi-8.m3u8
 [HD]華視,https://stream1.freetv.fun/hua-shi-5.ctv
 [HD]華視,rtmp://f13h.mine.nu:1935/sat/tv111
 [HD]華視,rtmp://f13h.mine.nu/sat/tv111
