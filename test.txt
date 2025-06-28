@@ -83,9 +83,11 @@
 [HD]緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 [HD]@ELTA愛爾達體育1台,https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
 [HD]@ELTA愛爾達體育1台,https://stream1.freetv.fun/ai-er-da-zong-he-tai---1-1.m3u8
+[HD]@ELTA愛爾達體育2台,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 [HD]NBA TV,https://stream1.freetv.fun/nba--e-1.ctv
 [HD]NBA TV,https://stream1.freetv.fun/nba-tv-6.ctv
 [HD]NBA TV,https://stream1.freetv.fun/nba--p-1.ctv
+[HD]博斯網球,https://stream1.freetv.fun/bo-si-wang-qiu---1-1.m3u8
 [BD]$博斯魅力,https://stream1.freetv.fun/bo-si-mei-li---1-1.m3u8
 
 兒童,#genre#
@@ -201,12 +203,6 @@
 [BD]生命電視,https://stream1.freetv.fun/sheng-ming-dian-shi-2.m3u8
 
 [測試]測試頻道,#genre#
-[HD]elta愛爾達體育 2 *wj,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
-[HD]elta体育3 =1,https://stream1.freetv.fun/eltati-yu-3--1-1.m3u8
-[HD]公视 =1,https://stream1.freetv.fun/gong-shi---1-1.m3u8
-[HD]公視 *wj,https://stream1.freetv.fun/gong-shi---wj-1.ctv
-[HD]創世電視,https://stream1.freetv.fun/chuang-shi-dian-shi-1.m3u8
-[HD]博斯网球 =1,https://stream1.freetv.fun/bo-si-wang-qiu---1-1.m3u8
 [HD]bbc 1 uk =1,https://stream1.freetv.fun/bbc-1-uk--1-1.m3u8
 [SD]bbc 3 *s,https://stream1.freetv.fun/bbc-3--s-1.m3u8
 [SD]bbc 4 (uk) *s,https://stream1.freetv.fun/bbc-4---s-1.m3u8
@@ -235,10 +231,6 @@
 [HD]bbc world news *wj,https://stream1.freetv.fun/bbc-world-news--wj-1.ctv
 [HD]bbc world news *b,https://stream1.freetv.fun/bbc-world-news--b-1.ctv
 [VGA]bbc world news *b,https://stream1.freetv.fun/bbc-world-news--b-2.ctv
-[BD]bbc world news,https://stream1.freetv.fun/bbc-world-news-4.m3u8
-[BD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-3.m3u8
-[HD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-1.m3u8
-[HD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-4.m3u8
 [BD]cnn int,https://stream1.freetv.fun/cnn-int-4.m3u8
 [BD]cnn,https://stream1.freetv.fun/cnn-5.m3u8
 [BD]cnn,https://stream1.freetv.fun/cnn-13.m3u8
@@ -283,125 +275,7 @@
 [VGA]fox sports 2,https://stream1.freetv.fun/fox-sports-2-2.ctv
 [SD]fox sports 1,https://stream1.freetv.fun/fox-sports-1-2.m3u8
 
-NHK华语,http://27.25.159.105:18000/url/api.php?id=28774&tk=a08069f77d023a2f26
-CNA,http://27.25.159.105:18000/url/api.php?id=68514&tk=a08069f77d023a2f26
-大爱一,http://27.25.159.105:18000/url/api.php?id=72395&tk=a08069f77d023a2f26
-大爱二,http://27.25.159.105:18000/url/api.php?id=81486&tk=a08069f77d023a2f26
-GOOD卡通,http://27.25.159.105:18000/url/api.php?id=77337&tk=a08069f77d023a2f26
-時尚FTV,http://27.25.159.105:18000/url/api.php?id=85511&tk=a08069f77d023a2f26
-好消息綜合,http://27.25.159.105:18000/url/api.php?id=96867&tk=a08069f77d023a2f26
-半岛新闻,http://27.25.159.105:18000/url/api.php?id=93250&tk=a08069f77d023a2f26
-亚洲经典,http://27.25.159.105:18000/url/api.php?id=62333&tk=a08069f77d023a2f26
-人間衛視,http://27.25.159.105:18000/url/api.php?id=79121&tk=a08069f77d023a2f26
-Arirang TV,http://27.25.159.105:18000/url/api.php?id=40776&tk=a08069f77d023a2f26
-香港面包,http://27.25.159.105:18000/url/api.php?id=54276&tk=a08069f77d023a2f26
-莲花卫视,http://27.25.159.105:18000/url/api.php?id=12238&tk=a08069f77d023a2f26
-星光视界,http://27.25.159.105:18000/url/api.php?id=90600&tk=a08069f77d023a2f26
-民視第一,http://27.25.159.105:18000/url/api.php?id=89797&tk=a08069f77d023a2f26
-民視台灣,http://27.25.159.105:18000/url/api.php?id=38996&tk=a08069f77d023a2f26
-龍華電影,http://27.25.159.105:18000/url/api.php?id=78464&tk=a08069f77d023a2f26
-CMUSIC音樂,http://27.25.159.105:18000/url/api.php?id=83175&tk=a08069f77d023a2f26
-博斯運動1,http://27.25.159.105:18000/url/api.php?id=61388&tk=a08069f77d023a2f26
-TVBS歡樂,http://27.25.159.105:18000/url/api.php?id=97595&tk=a08069f77d023a2f26
-博斯高球1,http://27.25.159.105:18000/url/api.php?id=20751&tk=a08069f77d023a2f26
-TG群@S2024TW,http://27.25.159.105:18000/url/api.php?id=51665&tk=a08069f77d023a2f26
-東森新聞,http://27.25.159.105:18000/url/api.php?id=70763&tk=a08069f77d023a2f26
-亚洲旅游,http://27.25.159.105:18000/url/api.php?id=36958&tk=a08069f77d023a2f26
-三立,http://27.25.159.105:18000/url/api.php?id=62909&tk=a08069f77d023a2f26
-龙华日韩,http://27.25.159.105:18000/url/api.php?id=14288&tk=a08069f77d023a2f26
-龙华戏剧,http://27.25.159.105:18000/url/api.php?id=53581&tk=a08069f77d023a2f26
-中视经典,http://27.25.159.105:18000/url/api.php?id=34069&tk=a08069f77d023a2f26
-中视青采,http://27.25.159.105:18000/url/api.php?id=25185&tk=a08069f77d023a2f26
-寰宇湾,http://27.25.159.105:18000/url/api.php?id=84953&tk=a08069f77d023a2f26
-公视戏剧,http://27.25.159.105:18000/url/api.php?id=35845&tk=a08069f77d023a2f26
-CINEMA WORLD,http://27.25.159.105:18000/url/api.php?id=36228&tk=a08069f77d023a2f26
-全球财经,http://27.25.159.105:18000/url/api.php?id=45068&tk=a08069f77d023a2f26
-華視新聞,http://27.25.159.105:18000/url/api.php?id=42129&tk=a08069f77d023a2f26
-互動英語,http://27.25.159.105:18000/url/api.php?id=18818&tk=a08069f77d023a2f26
-Nickelodeon,http://27.25.159.105:18000/url/api.php?id=18478&tk=a08069f77d023a2f26
-LOVE NATURE,http://27.25.159.105:18000/url/api.php?id=55167&tk=a08069f77d023a2f26
-ROCK ACTION,http://27.25.159.105:18000/url/api.php?id=69719&tk=a08069f77d023a2f26
-TECH STORM,http://27.25.159.105:18000/url/api.php?id=89374&tk=a08069f77d023a2f26
-剧3,http://27.25.159.105:18000/url/api.php?id=15801&tk=a08069f77d023a2f26
-哆啦A梦,http://27.25.159.105:18000/url/api.php?id=63404&tk=a08069f77d023a2f26
-剧2,http://27.25.159.105:18000/url/api.php?id=73172&tk=a08069f77d023a2f26
-镜新闻,http://27.25.159.105:18000/url/api.php?id=84478&tk=a08069f77d023a2f26
-BLOOMBERG,http://27.25.159.105:18000/url/api.php?id=96525&tk=a08069f77d023a2f26
-豬哥亮,http://27.25.159.105:18000/url/api.php?id=55035&tk=a08069f77d023a2f26
-剧,http://27.25.159.105:18000/url/api.php?id=66746&tk=a08069f77d023a2f26
-探案,http://27.25.159.105:18000/url/api.php?id=83309&tk=a08069f77d023a2f26
-DW NEWS,http://27.25.159.105:18000/url/api.php?id=87742&tk=a08069f77d023a2f26
-HISTORY,http://27.25.159.105:18000/url/api.php?id=89666&tk=a08069f77d023a2f26
-hokkotv,http://27.25.159.105:18000/url/api.php?id=72628&tk=a08069f77d023a2f26
-民视,http://27.25.159.105:18000/url/api.php?id=18917&tk=a08069f77d023a2f26
-中视,http://27.25.159.105:18000/url/api.php?id=39547&tk=a08069f77d023a2f26
-影迷,http://27.25.159.105:18000/url/api.php?id=75663&tk=a08069f77d023a2f26
-超人,http://27.25.159.105:18000/url/api.php?id=38011&tk=a08069f77d023a2f26
-综艺,http://27.25.159.105:18000/url/api.php?id=11594&tk=a08069f77d023a2f26
-影剧,http://27.25.159.105:18000/url/api.php?id=16571&tk=a08069f77d023a2f26
-旅游,http://27.25.159.105:18000/url/api.php?id=75597&tk=a08069f77d023a2f26
-KOREA,http://27.25.159.105:18000/url/api.php?id=45213&tk=a08069f77d023a2f26
-TVBS,http://27.25.159.105:18000/url/api.php?id=82775&tk=a08069f77d023a2f26
-ROCK,http://27.25.159.105:18000/url/api.php?id=29974&tk=a08069f77d023a2f26
-HITS,http://27.25.159.105:18000/url/api.php?id=46546&tk=a08069f77d023a2f26
-CNBC,http://27.25.159.105:18000/url/api.php?id=67221&tk=a08069f77d023a2f26
-momo,http://27.25.159.105:18000/url/api.php?id=86551&tk=a08069f77d023a2f26
-LUXE,http://27.25.159.105:18000/url/api.php?id=26983&tk=a08069f77d023a2f26
-MTV,http://27.25.159.105:18000/url/api.php?id=57218&tk=a08069f77d023a2f26
-MCE,http://27.25.159.105:18000/url/api.php?id=61306&tk=a08069f77d023a2f26
-VOA,http://27.25.159.105:18000/url/api.php?id=28556&tk=a08069f77d023a2f26
-elta生活旅游,http://27.25.159.105:18000/url/api.php?id=17407&tk=a08069f77d023a2f26
-靖洋戲劇,http://27.25.159.105:18000/url/api.php?id=28311&tk=a08069f77d023a2f26
-靖天電影,http://27.25.159.105:18000/url/api.php?id=58157&tk=a08069f77d023a2f26
-寰宇财经,http://27.25.159.105:18000/url/api.php?id=57278&tk=a08069f77d023a2f26
-智林体育,http://27.25.159.105:18000/url/api.php?id=18264&tk=a08069f77d023a2f26
-東森購物,http://27.25.159.105:18000/url/api.php?id=68631&tk=a08069f77d023a2f26
-人间卫视,http://27.25.159.105:18000/url/api.php?id=25407&tk=a08069f77d023a2f26
-八大綜合,http://27.25.159.105:18000/url/api.php?id=34951&tk=a08069f77d023a2f26
-幸福空間,http://27.25.159.105:18000/url/api.php?id=88002&tk=a08069f77d023a2f26
-東森購物,http://27.25.159.105:18000/url/api.php?id=39863&tk=a08069f77d023a2f26
-博斯無限,http://27.25.159.105:18000/url/api.php?id=38855&tk=a08069f77d023a2f26
-LIFE TIME,http://27.25.159.105:18000/url/api.php?id=51308&tk=a08069f77d023a2f26
-動畫,http://27.25.159.105:18000/url/api.php?id=60270&tk=a08069f77d023a2f26
-新唐人,http://27.25.159.105:18000/url/api.php?id=44272&tk=a08069f77d023a2f26
-TV5 MONDE,http://27.25.159.105:18000/url/api.php?id=91687&tk=a08069f77d023a2f26
-PET CLUB,http://27.25.159.105:18000/url/api.php?id=71580&tk=a08069f77d023a2f26
-FESTIVAL,http://27.25.159.105:18000/url/api.php?id=25657&tk=a08069f77d023a2f26
-动漫2,http://27.25.159.105:18000/url/api.php?id=97806&tk=a08069f77d023a2f26
-动漫,http://27.25.159.105:18000/url/api.php?id=13595&tk=a08069f77d023a2f26
-nickjr,http://27.25.159.105:18000/url/api.php?id=84715&tk=a08069f77d023a2f26
-GOOD2,http://27.25.159.105:18000/url/api.php?id=54962&tk=a08069f77d023a2f26
-TiTV,http://27.25.159.105:18000/url/api.php?id=76763&tk=a08069f77d023a2f26
-RTHK33*頻道,http://27.25.159.105:18000/url/api.php?id=40833&tk=a08069f77d023a2f26
-RTHK34,http://27.25.159.105:18000/url/api.php?id=74062&tk=a08069f77d023a2f26
-RTHK34,http://27.25.159.105:18000/url/api.php?id=53084&tk=a08069f77d023a2f26
-大爱,http://27.25.159.105:18000/url/api.php?id=59232&tk=a08069f77d023a2f26
-大爱2,http://27.25.159.105:18000/url/api.php?id=80807&tk=a08069f77d023a2f26
-大爱2,http://27.25.159.105:18000/url/api.php?id=92419&tk=a08069f77d023a2f26
-大爱2,http://27.25.159.105:18000/url/api.php?id=71713&tk=a08069f77d023a2f26
-大爱2,http://27.25.159.105:18000/url/api.php?id=58717&tk=a08069f77d023a2f26
-大爱2,http://27.25.159.105:18000/url/api.php?id=58195&tk=a08069f77d023a2f26
-台视频道,http://27.25.159.105:18000/url/api.php?id=45036&tk=a08069f77d023a2f26
-民视频道,http://27.25.159.105:18000/url/api.php?id=66206&tk=a08069f77d023a2f26
-纬来日本,http://27.25.159.105:18000/url/api.php?id=59854&tk=a08069f77d023a2f26
-东森超视,http://27.25.159.105:18000/url/api.php?id=98317&tk=a08069f77d023a2f26
-中视频道,http://27.25.159.105:18000/url/api.php?id=66069&tk=a08069f77d023a2f26
-華視频道,http://27.25.159.105:18000/url/api.php?id=13262&tk=a08069f77d023a2f26
-纬来育乐,http://27.25.159.105:18000/url/api.php?id=77739&tk=a08069f77d023a2f26
-MoMo综合,http://27.25.159.105:18000/url/api.php?id=38831&tk=a08069f77d023a2f26
-ELEVEN体育1,http://27.25.159.105:18000/url/api.php?id=94640&tk=a08069f77d023a2f26
-ELEVEN体育2,http://27.25.159.105:18000/url/api.php?id=97787&tk=a08069f77d023a2f26
-纬来体育,http://27.25.159.105:18000/url/api.php?id=39134&tk=a08069f77d023a2f26
-FOX新聞,http://27.25.159.105:18000/url/api.php?id=13421&tk=a08069f77d023a2f26
-人間衛視,http://27.25.159.105:18000/url/api.php?id=32391&tk=a08069f77d023a2f26
-人間衛視,http://27.25.159.105:18000/url/api.php?id=71175&tk=a08069f77d023a2f26
-人間衛視,http://27.25.159.105:18000/url/api.php?id=50825&tk=a08069f77d023a2f26
-八大戲劇,http://27.25.159.105:18000/url/api.php?id=45022&tk=a08069f77d023a2f26
-八大綜合,http://27.25.159.105:18000/url/api.php?id=83891&tk=a08069f77d023a2f26
-大立電視,http://27.25.159.105:18000/url/api.php?id=71501&tk=a08069f77d023a2f26
-新加坡中文,http://27.25.159.105:18000/url/api.php?id=76182&tk=a08069f77d023a2f26
-新加坡國際,http://27.25.159.105:18000/url/api.php?id=43888&tk=a08069f77d023a2f26
-番薯111,http://27.25.159.105:18000/url/api.php?id=16317&tk=a08069f77d023a2f26
+
 緯來精彩臺,http://27.25.159.105:18000/url/api.php?id=42302&tk=a08069f77d023a2f26
 
 
@@ -410,75 +284,21 @@ FOX新聞,http://27.25.159.105:18000/url/api.php?id=13421&tk=a08069f77d023a2f26
 
 
 [測試]JAPAN,#genre#
-[HD]ann news,https://stream1.freetv.fun/ann-news-1.m3u8
-[SD]animax *wj,https://stream1.freetv.fun/animax--wj-1.ctv
-[BD]animax,https://stream1.freetv.fun/animax-6.m3u8
 [HD]hallo anime,https://stream1.freetv.fun/hallo-anime-1.m3u8
-[HD]boom anime,https://stream1.freetv.fun/boom-anime-2.m3u8
-[VGA]cms anime,https://stream1.freetv.fun/cms-anime-1.m3u8
-[SD]bs asahi,https://stream1.freetv.fun/bs-asahi-1.m3u8
-[SD]bs fuji,https://stream1.freetv.fun/bs-fuji-1.m3u8
-[HD]bs tbs,https://stream1.freetv.fun/bs-tbs-1.m3u8
 [SD]bs-tbs,https://stream1.freetv.fun/bs-tbs-5.m3u8
-[SD]bsアニマックス,https://stream1.freetv.fun/bsanimatsukusu-2.m3u8
-[SD]テレビ東京,https://stream1.freetv.fun/terebidong-jing-5.m3u8
-[SD]bsフジ,https://stream1.freetv.fun/bshuzi-2.m3u8
-[SD]日本テレビ,https://stream1.freetv.fun/ri-ben-terebi-1.m3u8
-[SD]bs日テレ,https://stream1.freetv.fun/bsri-tere-2.m3u8
-[BD]cgntv japan,https://stream1.freetv.fun/cgntv-japan-1.m3u8
-[BD]cgntv japan,https://stream1.freetv.fun/cgntv-japan-2.m3u8
-[HD]on fm,https://stream1.freetv.fun/on-fm-1.m3u8
-[SD]gaora,https://stream1.freetv.fun/gaora-1.m3u8
-[HD]gaora sports,https://stream1.freetv.fun/gaora-sports-2.m3u8
-[HD]lol! network,https://stream1.freetv.fun/lol--network-1.m3u8
-[HD]lol! network,https://stream1.freetv.fun/lol--network-5.m3u8
-[VGA]hit tv,https://stream1.freetv.fun/hit-tv-1.m3u8
-[SD]jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
-[HD]ert sports 1,https://stream1.freetv.fun/ert-sports-1-1.ctv
-[HD]jsport 2,https://stream1.freetv.fun/jsport-2-1.m3u8
-[SD]jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
-[HD]jsport 3,https://stream1.freetv.fun/jsport-3-1.m3u8
-[SD]jsports 3,https://stream1.freetv.fun/jsports-3-2.m3u8
-[HD]ert sports 4,https://stream1.freetv.fun/ert-sports-4-1.ctv
-[BD]ert sports 4,https://stream1.freetv.fun/ert-sports-4-2.m3u8
-[HD]jsport 4,https://stream1.freetv.fun/jsport-4-1.m3u8
 [SD]jsports 4,https://stream1.freetv.fun/jsports-4-1.m3u8
-[BD]shop channel,https://stream1.freetv.fun/shop-channel-2.m3u8
-[HD]kanshi tv,https://stream1.freetv.fun/kanshi-tv-1.m3u8
-[VGA]kanizsa tv,https://stream1.freetv.fun/kanizsa-tv-1.m3u8
-[HD]kansai tv,https://stream1.freetv.fun/kansai-tv-1.m3u8
 [SD]lalatv,https://stream1.freetv.fun/lalatv-1.m3u8
 [HD]mbs,https://stream1.freetv.fun/mbs-2.m3u8
-[HD]mondo tv,https://stream1.freetv.fun/mondo-tv-2.m3u8
 [SD]music on tv!,https://stream1.freetv.fun/music-on-tv-1.m3u8
 [SD]nhk bs,https://stream1.freetv.fun/nhk-bs-2.m3u8
-[HD]nhk bs,https://stream1.freetv.fun/nhk-bs-3.m3u8
-[SD]nhk,https://stream1.freetv.fun/nhk-3.m3u8
+[SD]nhk bs,https://stream1.freetv.fun/nhk-3.m3u8
 [SD]nhk bsp4k,https://stream1.freetv.fun/nhk-bsp4k-1.m3u8
-[BD]lnktv education,https://stream1.freetv.fun/lnktv-education-1.m3u8
-[HD]nhk world,https://stream1.freetv.fun/nhk-world-9.m3u8
-[HD]nhk world,https://stream1.freetv.fun/nhk-world-7.m3u8
 [VGA]nhk world *s,https://stream1.freetv.fun/nhk-world--s-1.m3u8
-[HD]nhk japan ᴴᴰ,https://stream1.freetv.fun/nhk-japan-hd-1.m3u8
-[BD]news world,https://stream1.freetv.fun/news-world-1.m3u8
 [HD]star channel,https://stream1.freetv.fun/star-channel-3.m3u8
-[BD]on music,https://stream1.freetv.fun/on-music-1.ctv
-[BD]tbs,https://stream1.freetv.fun/tbs-1.m3u8
 [SD]tbsテレビ,https://stream1.freetv.fun/tbsterebi-2.m3u8
-[HD]tokyo mx1,https://stream1.freetv.fun/tokyo-mx1-1.m3u8
-[HD]tokyo mx2,https://stream1.freetv.fun/tokyo-mx2-3.m3u8
-[BD]tv sayohi,https://stream1.freetv.fun/tv-sayohi-1.m3u8
-[BD]bs tv tokyo,https://stream1.freetv.fun/bs-tv-tokyo-1.m3u8
-[HD]bs tv tokyo,https://stream1.freetv.fun/bs-tv-tokyo-2.m3u8
-[HD]degrassi the next generation,https://stream1.freetv.fun/degrassi-the-next-generation-1.m3u8
-[HD]wowow cinema,https://stream1.freetv.fun/wowow-cinema-1.m3u8
-[HD]wowow live,https://stream1.freetv.fun/wowow-live-1.m3u8
-[HD]wowow prime,https://stream1.freetv.fun/wowow-prime-3.m3u8
 [SD]wowowシネマ,https://stream1.freetv.fun/wowowshinema-3.m3u8
 [SD]wowowプライム,https://stream1.freetv.fun/wowowpuraimu-3.m3u8
 [SD]wowowライブ,https://stream1.freetv.fun/wowowraibu-3.m3u8
-[HD]dtv,https://stream1.freetv.fun/dtv-1.m3u8
-[HD]dtv,https://stream1.freetv.fun/dtv-3.m3u8
 [SD]ゴルフネットワーク,https://stream1.freetv.fun/goruhunetsutowaku-2.m3u8
 [SD]スーパー!ドラマtv,https://stream1.freetv.fun/supa-doramatv-1.m3u8
 [SD]チャンネルneco,https://stream1.freetv.fun/chiyanneruneco-1.m3u8
