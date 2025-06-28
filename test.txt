@@ -180,6 +180,82 @@
 [HD]公視 *wj,https://stream1.freetv.fun/gong-shi---wj-1.ctv
 [HD]創世電視,https://stream1.freetv.fun/chuang-shi-dian-shi-1.m3u8
 [HD]博斯网球 =1,https://stream1.freetv.fun/bo-si-wang-qiu---1-1.m3u8
+[HD]bbc 1 uk =1,https://stream1.freetv.fun/bbc-1-uk--1-1.m3u8
+[SD]bbc 3 *s,https://stream1.freetv.fun/bbc-3--s-1.m3u8
+[SD]bbc 4 (uk) *s,https://stream1.freetv.fun/bbc-4---s-1.m3u8
+[HD]bbc kids,https://stream1.freetv.fun/bbc-kids-1.m3u8
+[HD]bbc america east,https://stream1.freetv.fun/bbc-america-east-1.m3u8
+[HD]bbc america east,https://stream1.freetv.fun/bbc-america-east-2.m3u8
+[HD]bbc america,https://stream1.freetv.fun/bbc-america-2.m3u8
+[SD]bbc america==,https://stream1.freetv.fun/bbc-america-1.ctv
+[SD]bbc america=,https://stream1.freetv.fun/bbc-america-3.ctv
+[SD]bbc cbeebies *s,https://stream1.freetv.fun/bbc-cbeebies--s-1.m3u8
+[BD]cbeebies *wj,https://stream1.freetv.fun/cbeebies--wj-1.ctv
+[HD]bbc four uk,https://stream1.freetv.fun/bbc-four-uk-1.m3u8
+[BD]bbc,https://stream1.freetv.fun/bbc-1.m3u8
+[HD]bbc *s,https://stream1.freetv.fun/bbc--s-1.m3u8
+[BD]bbc,https://stream1.freetv.fun/bbc-3.m3u8
+[HD]bbc,https://stream1.freetv.fun/bbc-4.m3u8
+[BD]bbc news,https://stream1.freetv.fun/bbc-news-7.ctv
+[BD]bbc news,https://stream1.freetv.fun/bbc-news-8.m3u8
+[BD]bbc news,https://stream1.freetv.fun/bbc-news-9.m3u8
+[BD]bbc news,https://stream1.freetv.fun/bbc-news-12.m3u8
+[VGA]bbc news,https://stream1.freetv.fun/bbc-news-3.m3u8
+[HD]bbc three,https://stream1.freetv.fun/bbc-three-1.m3u8
+[HD]bbc two,https://stream1.freetv.fun/bbc-two-2.m3u8
+[HD]bbc world news =1,https://stream1.freetv.fun/bbc-world-news--1-1.m3u8
+[HD]bbc world news *wj,https://stream1.freetv.fun/bbc-world-news--wj-2.ctv
+[HD]bbc world news *wj,https://stream1.freetv.fun/bbc-world-news--wj-1.ctv
+[HD]bbc world news *b,https://stream1.freetv.fun/bbc-world-news--b-1.ctv
+[VGA]bbc world news *b,https://stream1.freetv.fun/bbc-world-news--b-2.ctv
+[BD]bbc world news,https://stream1.freetv.fun/bbc-world-news-4.m3u8
+[BD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-3.m3u8
+[HD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-1.m3u8
+[HD]baby shark tv,https://stream1.freetv.fun/baby-shark-tv-4.m3u8
+[BD]cnn int,https://stream1.freetv.fun/cnn-int-4.m3u8
+[BD]cnn,https://stream1.freetv.fun/cnn-5.m3u8
+[BD]cnn,https://stream1.freetv.fun/cnn-13.m3u8
+[BD]cnn,https://stream1.freetv.fun/cnn-14.ctv
+[VGA]cnn,https://stream1.freetv.fun/cnn-11.m3u8
+[HD]cnn ===,https://stream1.freetv.fun/cnn-2.ctv
+[BD]cnn =,https://stream1.freetv.fun/cnn-7.ctv
+[HD]cnn ==,https://stream1.freetv.fun/cnn-10.ctv
+[VGA]cnn *s,https://stream1.freetv.fun/cnn--s-1.m3u8
+[SD]cnn *wj,https://stream1.freetv.fun/cnn--wj-1.ctv
+[BD]cnn int,https://stream1.freetv.fun/cnn-int-1.m3u8
+[BD]cnn int,https://stream1.freetv.fun/cnn-int-3.m3u8
+[BD]cnn,https://stream1.freetv.fun/cnn-12.ctv
+[HD]cnn,https://stream1.freetv.fun/cnn-3.m3u8
+[SD]cnn,https://stream1.freetv.fun/cnn-8.ctv
+[HD]cnn international *wj,https://stream1.freetv.fun/cnn-international--wj-1.ctv
+[BD]rakuten tv comedy movies,https://stream1.freetv.fun/rakuten-tv-comedy-movies-3.m3u8
+[BD]rakuten tv comedy movies,https://stream1.freetv.fun/rakuten-tv-comedy-movies-5.m3u8
+[BD]rakuten tv comedy movies,https://stream1.freetv.fun/rakuten-tv-comedy-movies-2.m3u8
+[HD]espn 2,https://stream1.freetv.fun/espn-2-1.m3u8
+[BD]espn,https://stream1.freetv.fun/espn-8.m3u8
+[HD]espn,https://stream1.freetv.fun/espn-1.ctv
+[HD]espn =,https://stream1.freetv.fun/espn-2.ctv
+[HD]espn ==,https://stream1.freetv.fun/espn-3.ctv
+[HD]espn -,https://stream1.freetv.fun/espn-5.ctv
+[HD]espn --,https://stream1.freetv.fun/espn-7.ctv
+[HD]espn ---,https://stream1.freetv.fun/espn-6.ctv
+[HD]espn u,https://stream1.freetv.fun/espn-u-2.m3u8
+[HD]fox 13 seattle wa,https://stream1.freetv.fun/fox-13-seattle-wa-1.m3u8
+[VGA]fox 5 atlanta ga,https://stream1.freetv.fun/fox-5-atlanta-ga-1.m3u8
+[HD]fox news *wj,https://stream1.freetv.fun/fox-news--wj-1.ctv
+[BD]fox now,https://stream1.freetv.fun/fox-now-1.m3u8
+[HD]fox sports,https://stream1.freetv.fun/fox-sports-7.m3u8
+[SD]fox sports,https://stream1.freetv.fun/fox-sports-1.m3u8
+[BD]fox sports,https://stream1.freetv.fun/fox-sports-8.m3u8
+[SD]fox sports ==,https://stream1.freetv.fun/fox-sports-4.ctv
+[SD]fox sports ===,https://stream1.freetv.fun/fox-sports-6.ctv
+[BD]fox sports,https://stream1.freetv.fun/fox-sports-2.m3u8
+[HD]fox sports =,https://stream1.freetv.fun/fox-sports-3.ctv
+[SD]fox sports 2,https://stream1.freetv.fun/fox-sports-2-7.ctv
+[HD]fox sport 2,https://stream1.freetv.fun/fox-sport-2-1.m3u8
+[VGA]fox sports 2,https://stream1.freetv.fun/fox-sports-2-2.ctv
+[SD]fox sports 1,https://stream1.freetv.fun/fox-sports-1-2.m3u8
+
 
 
 [測試]JAPAN,#genre#
