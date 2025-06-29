@@ -81,9 +81,11 @@
 [BD]民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 [BD]台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
 [BD]台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
+[HD]鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 [BD]非凡新聞,https://stream1.freetv.fun/fei-fan-xin-wen-hd--1-1.m3u8
 [HD]@寰宇新聞台,https://www.youtube.com/watch?v=w87VGpgd90U
 [HD]@寰宇新聞台,https://stream1.freetv.fun/huan-yu-xin-wen---wj-1.ctv
+[HD]NHK WORLD JAPAN,http://125.227.210.55:35802/VideoInput/play.ts
 [HD]Channel News Asia,https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
 [HD]國會 1,https://stream1.freetv.fun/guo-hui--1-5.m3u8
 [HD]國會 2,https://stream1.freetv.fun/guo-hui--2-2.m3u8
@@ -91,7 +93,6 @@
 
 運動,#genre#
 [HD]緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-[HD]緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 [HD]緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 [HD]DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 [HD]DAZN 2,rtmp://f13h.mine.nu/sat/tv741
