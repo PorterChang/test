@@ -260,7 +260,6 @@
 [BD]cnn int,https://stream1.freetv.fun/cnn-int-4.m3u8
 [BD]cnn,https://stream1.freetv.fun/cnn-5.m3u8
 [BD]cnn,https://stream1.freetv.fun/cnn-13.m3u8
-[BD]cnn,https://stream1.freetv.fun/cnn-14.ctv
 [VGA]cnn,https://stream1.freetv.fun/cnn-11.m3u8
 [HD]cnn ===,https://stream1.freetv.fun/cnn-2.ctv
 [BD]cnn =,https://stream1.freetv.fun/cnn-7.ctv
@@ -278,7 +277,6 @@
 [BD]rakuten tv comedy movies,https://stream1.freetv.fun/rakuten-tv-comedy-movies-2.m3u8
 [HD]espn 2,https://stream1.freetv.fun/espn-2-1.m3u8
 [BD]espn,https://stream1.freetv.fun/espn-8.m3u8
-[HD]espn,https://stream1.freetv.fun/espn-1.ctv
 [HD]espn =,https://stream1.freetv.fun/espn-2.ctv
 [HD]espn ==,https://stream1.freetv.fun/espn-3.ctv
 [HD]espn -,https://stream1.freetv.fun/espn-5.ctv
@@ -325,5 +323,28 @@
 
 
 
-大愛電視,http://xg.52sw.top:5000/4gtv/209
-大愛電視2,http://xg.52sw.top:5000/4gtv/230
+http://125.227.210.55:8151/VideoInput/play.ts
+http://125.227.210.55:8152/VideoInput/play.ts
+http://125.227.210.55:8153/VideoInput/play.ts
+http://125.227.210.55:8154/VideoInput/play.ts
+http://61.221.215.25:8800/hls/39/index.m3u8
+http://61.221.215.25:8800/hls/41/index.m3u8
+http://61.221.215.25:8800/hls/40/index.m3u8
+http://61.221.215.25:8800/hls/43/index.m3u8
+http://61.221.215.25:8800/hls/47/index.m3u8
+http://61.221.215.25:8800/hls/48/index.m3u8
+http://61.221.215.25:8800/hls/49/index.m3u8
+http://61.221.215.25:8800/hls/50/index.m3u8
+http://61.221.215.25:8800/hls/55/index.m3u8
+http://61.221.215.25:8800/hls/57/index.m3u8
+http://61.221.215.25:8800/hls/56/index.m3u8
+http://125.227.210.55:8161/VideoInput/play.ts
+http://125.227.210.55:8165/VideoInput/play.ts
+http://125.227.210.55:8166/VideoInput/play.ts
+http://125.227.210.55:8167/VideoInput/play.ts
+http://125.227.210.55:15533/VideoInput/play.ts
+http://125.227.210.55:17478/VideoInput/play.ts
+http://125.227.210.55:35802/VideoInput/play.ts
+http://125.227.210.55:39004/VideoInput/play.ts
+http://125.227.210.55:42534/VideoInput/play.ts
+http://125.227.210.55:48553/VideoInput/play.ts
