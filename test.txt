@@ -284,7 +284,6 @@
 [HD]espn ---,https://stream1.freetv.fun/espn-6.ctv
 [HD]espn u,https://stream1.freetv.fun/espn-u-2.m3u8
 [HD]fox 13 seattle wa,https://stream1.freetv.fun/fox-13-seattle-wa-1.m3u8
-[VGA]fox 5 atlanta ga,https://stream1.freetv.fun/fox-5-atlanta-ga-1.m3u8
 
 
 
@@ -323,28 +322,28 @@
 
 
 
-http://125.227.210.55:8151/VideoInput/play.ts
-http://125.227.210.55:8152/VideoInput/play.ts
-http://125.227.210.55:8153/VideoInput/play.ts
-http://125.227.210.55:8154/VideoInput/play.ts
-http://61.221.215.25:8800/hls/39/index.m3u8
-http://61.221.215.25:8800/hls/41/index.m3u8
-http://61.221.215.25:8800/hls/40/index.m3u8
-http://61.221.215.25:8800/hls/43/index.m3u8
-http://61.221.215.25:8800/hls/47/index.m3u8
-http://61.221.215.25:8800/hls/48/index.m3u8
-http://61.221.215.25:8800/hls/49/index.m3u8
-http://61.221.215.25:8800/hls/50/index.m3u8
-http://61.221.215.25:8800/hls/55/index.m3u8
-http://61.221.215.25:8800/hls/57/index.m3u8
-http://61.221.215.25:8800/hls/56/index.m3u8
-http://125.227.210.55:8161/VideoInput/play.ts
-http://125.227.210.55:8165/VideoInput/play.ts
-http://125.227.210.55:8166/VideoInput/play.ts
-http://125.227.210.55:8167/VideoInput/play.ts
-http://125.227.210.55:15533/VideoInput/play.ts
-http://125.227.210.55:17478/VideoInput/play.ts
-http://125.227.210.55:35802/VideoInput/play.ts
-http://125.227.210.55:39004/VideoInput/play.ts
-http://125.227.210.55:42534/VideoInput/play.ts
-http://125.227.210.55:48553/VideoInput/play.ts
+*,http://125.227.210.55:8151/VideoInput/play.ts
+*,http://125.227.210.55:8152/VideoInput/play.ts
+*,http://125.227.210.55:8153/VideoInput/play.ts
+*,http://125.227.210.55:8154/VideoInput/play.ts
+*,http://61.221.215.25:8800/hls/39/index.m3u8
+*,http://61.221.215.25:8800/hls/41/index.m3u8
+*,http://61.221.215.25:8800/hls/40/index.m3u8
+*,http://61.221.215.25:8800/hls/43/index.m3u8
+*,http://61.221.215.25:8800/hls/47/index.m3u8
+*,http://61.221.215.25:8800/hls/48/index.m3u8
+*,http://61.221.215.25:8800/hls/49/index.m3u8
+*,http://61.221.215.25:8800/hls/50/index.m3u8
+*,http://61.221.215.25:8800/hls/55/index.m3u8
+*,http://61.221.215.25:8800/hls/57/index.m3u8
+*,http://61.221.215.25:8800/hls/56/index.m3u8
+*,http://125.227.210.55:8161/VideoInput/play.ts
+*,http://125.227.210.55:8165/VideoInput/play.ts
+*,http://125.227.210.55:8166/VideoInput/play.ts
+*,http://125.227.210.55:8167/VideoInput/play.ts
+*,http://125.227.210.55:15533/VideoInput/play.ts
+*,http://125.227.210.55:17478/VideoInput/play.ts
+*,http://125.227.210.55:35802/VideoInput/play.ts
+*,http://125.227.210.55:39004/VideoInput/play.ts
+*,http://125.227.210.55:42534/VideoInput/play.ts
+*,http://125.227.210.55:48553/VideoInput/play.ts
