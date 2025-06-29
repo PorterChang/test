@@ -287,7 +287,7 @@
 [HD]espn u,https://stream1.freetv.fun/espn-u-2.m3u8
 [HD]fox 13 seattle wa,https://stream1.freetv.fun/fox-13-seattle-wa-1.m3u8
 [VGA]fox 5 atlanta ga,https://stream1.freetv.fun/fox-5-atlanta-ga-1.m3u8
-企鵝,https://live.qq.com/10117695
+企鵝,https://live.qq.com/share?rid=10117695
 
 [測試]IPTV PRO,#genre#
 中天新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQmBbYquY4oExk2niXClR2U/ts
