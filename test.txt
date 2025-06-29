@@ -287,9 +287,7 @@
 [HD]espn u,https://stream1.freetv.fun/espn-u-2.m3u8
 [HD]fox 13 seattle wa,https://stream1.freetv.fun/fox-13-seattle-wa-1.m3u8
 [VGA]fox 5 atlanta ga,https://stream1.freetv.fun/fox-5-atlanta-ga-1.m3u8
-企鵝,https://flv-tencent-wplay.qiecdn.com/live/10166514r7oRbxUW.flv
-企鵝2,https://flv-tencent-wplay.qiecdn.com/live/10166514r7oRbxUW.flv?txSecret=0f858954bcfbf7c9d59adcef2cd3700d&token=1f7a214cbad63e4a510bef0a1c5b23ea&txTime=1751171695
-企鵝3,https://flv-tencent-wplay.qiecdn.com/live/10166514r7oRbxUW.flv?txSecret=0f858954bcfbf7c9d59adcef2cd3700d
+企鵝,https://hls-broadcast-bd1.qiecdn.com/live/10166514r7oRbxUW.m3u8?timestamp=1751173066&secret=6ba3c1a325ea3c5dfd7fcae26a1b3183&token=2
 
 [測試]IPTV PRO,#genre#
 中天新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQmBbYquY4oExk2niXClR2U/ts
